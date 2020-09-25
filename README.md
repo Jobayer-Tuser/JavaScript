@@ -1,4 +1,4 @@
-## Source Code of Core JavaScript and PHP
+## Source Code of Core JavaScript ES-6
 
 | # | Content |
 |---|---------|
